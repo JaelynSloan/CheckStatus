@@ -1,0 +1,11 @@
+C:\Users\jaely\source\repos\CheckStatusSolution\CheckStatus.Models\bin\Debug\net8.0\CheckStatus.Models.deps.json
+C:\Users\jaely\source\repos\CheckStatusSolution\CheckStatus.Models\bin\Debug\net8.0\CheckStatus.Models.dll
+C:\Users\jaely\source\repos\CheckStatusSolution\CheckStatus.Models\bin\Debug\net8.0\CheckStatus.Models.pdb
+C:\Users\jaely\source\repos\CheckStatusSolution\CheckStatus.Models\obj\Debug\net8.0\CheckStatus.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaely\source\repos\CheckStatusSolution\CheckStatus.Models\obj\Debug\net8.0\CheckStatus.Models.AssemblyInfoInputs.cache
+C:\Users\jaely\source\repos\CheckStatusSolution\CheckStatus.Models\obj\Debug\net8.0\CheckStatus.Models.AssemblyInfo.cs
+C:\Users\jaely\source\repos\CheckStatusSolution\CheckStatus.Models\obj\Debug\net8.0\CheckStatus.Models.csproj.CoreCompileInputs.cache
+C:\Users\jaely\source\repos\CheckStatusSolution\CheckStatus.Models\obj\Debug\net8.0\CheckStatus.Models.dll
+C:\Users\jaely\source\repos\CheckStatusSolution\CheckStatus.Models\obj\Debug\net8.0\refint\CheckStatus.Models.dll
+C:\Users\jaely\source\repos\CheckStatusSolution\CheckStatus.Models\obj\Debug\net8.0\CheckStatus.Models.pdb
+C:\Users\jaely\source\repos\CheckStatusSolution\CheckStatus.Models\obj\Debug\net8.0\ref\CheckStatus.Models.dll

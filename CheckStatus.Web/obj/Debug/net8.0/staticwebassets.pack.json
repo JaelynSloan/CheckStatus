@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\CheckStatusSolution\\CheckStatus.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\CheckStatusSolution\\CheckStatus.Web\\obj\\Debug\\net8.0\\compressed\\xwcmfqnocg.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\CheckStatusSolution\\CheckStatus.Web\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\CheckStatusSolution\\CheckStatus.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\CheckStatusSolution\\CheckStatus.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\CheckStatusSolution\\CheckStatus.Web\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\jaely\\source\\repos\\CheckStatusSolution\\CheckStatus.Web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CheckStatus.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CheckStatus.Web.props",
+      "PackagePath": "build\\CheckStatus.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CheckStatus.Web.props",
+      "PackagePath": "buildMultiTargeting\\CheckStatus.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CheckStatus.Web.props",
+      "PackagePath": "buildTransitive\\CheckStatus.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

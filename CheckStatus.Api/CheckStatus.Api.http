@@ -1,0 +1,6 @@
+@CheckStatus.Api_HostAddress = http://localhost:7271
+
+GET {{CheckStatus.Api_HostAddress}}/siteStatuses
+Accept: application/json
+
+###

@@ -1,0 +1,43 @@
+﻿@page "/"
+@inherits SiteStatusBase
+@layout MainLayout
+
+
+@if (SiteStatuses == null)
+{
+    <h3>Loading Services...</h3>
+}
+else
+{
+    <h3 class="mb-5">Services</h3>
+
+    var serviceCount = SiteStatuses.Count();
+
+    @if (serviceCount > 0)
+    {
+        var siteStatuses = new List<SiteStatusDto>();
+        const int itemsPerRow = 2;
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Location</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < serviceCount; i++)
+                {
+                    siteStatuses = SiteStatuses.Skip(i * itemsPerRow).Take(itemsPerRow).ToList();
+                    @foreach (var item in siteStatuses)
+                    {
+                        <tr>
+                            <td>@item.SiteName</td>
+                            <td>@item.IsOnline</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    }
+}
